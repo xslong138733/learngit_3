@@ -5,3 +5,4 @@ Git tracks changes of files
 interesting! Their might exist conflicts!
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
+sync to branch
